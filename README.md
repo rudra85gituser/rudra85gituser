@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Yadav</h1>
-<h3 align="center">passionate front-end developer</h3>
+<h3 align="center">I'm Rudra , passionate front-end developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yadavrudra123&label=Profile%20views&color=0e75b6&style=flat" alt="yadavrudra123" /> </p>
 
@@ -15,6 +15,8 @@
 <p align="left">
 <a href="https://twitter.com/yadavrudra68167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yadavrudra68167" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rudra-yadav-b67774252" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-yadav-b67774252" height="30" width="40" /></a>
+<a href="https://instagram.com/realrudrayadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="realrudrayadav" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@me" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
