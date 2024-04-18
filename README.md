@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **realrudrayadav@gmail.com**
 
-- ⚡ Fun fact **i am funny , lazy and enthusiastic person**
+- ⚡ Fun fact **i am funny , interactive and enthusiastic person**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
