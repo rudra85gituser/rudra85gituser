@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudra Yadav</h1>
-<h3 align="center">Passionate front-end developer and learning Competitive Programming/DSA concepts </h3>
+<h3 align="center">Passionate front-end developer and Competitive Programming/DSA concepts learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra85gituser&label=Profile%20views&color=0e75b6&style=flat" alt="rudra85gituser" /> </p>
 
